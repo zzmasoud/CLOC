@@ -35,25 +35,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Time Tracker
+    description                           : track, pause, stop timer easily by mini timer view.
+    fontawesome_icon_name                 : timer
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Projects
+    description                           : group tasks by setting a project to them, also adding deadline to a project helps you to handle it better & watch deadline countdown.
+    fontawesome_icon_name                 : bars-progress
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Charts
+    description                           : viewing your productivity by charts help you stay on track to achieve your goals.
+    fontawesome_icon_name                 : chart-column
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Notifications
+    description                           : get smart notifications when you set a timer or when deadline of a project.
+    fontawesome_icon_name                 : bell
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Todo Mode
+    description                           : If you prefer to-do tasks only, simply forget about timer button and just swipe right on each task to mark it as done and vice versa.
+    fontawesome_icon_name                 : list-check
   
   - title                                 : Feature List
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
