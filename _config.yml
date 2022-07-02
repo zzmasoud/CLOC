@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Time Tracker
-    description                           : track, pause, stop timer easily by mini timer view.
+    description                           : track, pause, stop timer easily by mini timer view; if you prefer focus mode, tap on the mini view.
     fontawesome_icon_name                 : timer
     
   - title                                 : Projects
@@ -56,7 +56,7 @@ features                                  :
     fontawesome_icon_name                 : list-check
   
   - title                                 : Overdue Tasks
-    description                           : We designed a new user experience where you can assign tasks to upcoming days, only by swapping (time capsules).
+    description                           : We designed a new user experience where you can assign overdue tasks to upcoming days, only by swapping (time capsules).
     fontawesome_icon_name                 : hand-back-point-up
 
   - title                                 : # New Feature Title
