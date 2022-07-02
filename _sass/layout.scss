@@ -29,7 +29,7 @@
 }
 
 .subPageHeaderBackground {
-	background-color: $body_background_color;
+	background-color: $body-color;
 }
 
 .container {					// Set up the container for the site content
@@ -50,7 +50,7 @@
 
 .subPageContainer {
 	grid-template-rows: 115px auto auto auto;
-	background-color: $body_background_color;
+	background-color: $body-color;
 }
 
 @media only screen and (max-width: 768px) {
