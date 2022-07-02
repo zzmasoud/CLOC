@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : chart-column
 
   - title                                 : Notifications
-    description                           : get smart notifications when you set a timer or when deadline of a project.
+    description                           : get smart notifications when you set a timer or when deadline of a project get closer.
     fontawesome_icon_name                 : bell
 
   - title                                 : Todo Mode
