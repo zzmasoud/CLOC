@@ -1,4 +1,6 @@
-
+## Supported Languages:
+English, French, Hindi, Korean, Simplified Chinese,
+Thai
 
 ### `Latest`
 # **V 2.1**
