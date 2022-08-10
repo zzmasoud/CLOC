@@ -10,6 +10,12 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 <br>
 
 ### `Latest`
+# **Version 2.1**
+### What's New
+- **Easy timer:** Holding a finger on (+) button will start a new timer instead of new task popup.
+- **Quick Access To Projects:** Menu can expand the projects list on itself now, so you can quickly select one instead of going to projects screen everytime.
+- **Accurate Time Tracking:** If you start tracking time for a task, the tracked time will counts on current day not future, not past.
+- **Timer Widget:** Minimal widget to follow up your tracking time progress.
 # **Version 2.0**
 This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
