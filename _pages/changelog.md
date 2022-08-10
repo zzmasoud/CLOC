@@ -32,3 +32,8 @@
 - Added "Getting Stated" page
 <br>
 
+# **Version 1.2.1**
+#### What's New
+- Added calendar top of timeline so you can browse past days & modify tasks.
+- Your daily progress will be compared to nearest last 10 days (was only one day before).
+- Added image crop page when choosing an image for a project or a partner.
