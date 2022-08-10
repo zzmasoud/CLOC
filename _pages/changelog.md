@@ -24,3 +24,11 @@
 - Added "Clear All" button on "Tasks" screen, so you can remove one by one or all of related tasks of a project, tag or a partner.
 - New pause indicator on timer screen.
 <br>
+
+# **Version 1.2.2**
+#### What's New
+- Added option to delete tags or move tasks to another tag before deleting them
+- Added "licenses" page to respect to all open sources & free resources communities
+- Added "Getting Stated" page
+<br>
+
