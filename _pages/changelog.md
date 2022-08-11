@@ -1,3 +1,9 @@
+---
+layout: page
+title: What's new
+include_in_header: true
+---
+
 ## Supported Languages:
 English, French, Hindi, Korean, Simplified Chinese,
 Thai
