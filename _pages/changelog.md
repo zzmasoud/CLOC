@@ -8,6 +8,18 @@ include_in_header: true
 English, French, Hindi, Korean, Simplified Chinese,
 Thai
 
+#### *`In Review`*
+# **V 2.2**
+### What's New
+- **Repeated tasks:** It's finally here! Tap (+) button and choose repeat days of the task.
+- **☠️ Mode:** Can you beat yourself? timer won't work if the app enters background. Turn it on from the full screen timer page (Focus page).
+- **Counts:** Added counts for done and undone tasks. 
+### Improvements
+- The widget now fully supported on +iOS 14
+- Fixed a bug related to removation of a time record.
+- The menu badges now counts only undone tasks (no done tasks considered).
+<br>
+
 ### `Latest`
 # **V 2.1**
 ### What's New
