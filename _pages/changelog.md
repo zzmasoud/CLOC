@@ -8,7 +8,7 @@ include_in_header: true
 English, French, Hindi, Korean, Simplified Chinese,
 Thai
 
-#### *`In Review`*
+### `Latest`
 # **V 2.2**
 ### What's New
 - **Repeated tasks:** It's finally here! Tap (+) button and choose repeat days of the task.
@@ -20,7 +20,6 @@ Thai
 - The menu badges now counts only undone tasks (no done tasks considered).
 <br>
 
-### `Latest`
 # **V 2.1**
 ### What's New
 - **Easy timer:** Holding a finger on (+) button will start a new timer instead of new task popup.
