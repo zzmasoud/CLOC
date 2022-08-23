@@ -51,7 +51,7 @@ features                                  :
     description                           : get smart notifications when you set a timer or when deadline of a project get closer.
     fontawesome_icon_name                 : bell
 
-  - title                                 : Todo Mode
+  - title                                 : To Do Mode
     description                           : If you prefer to-do tasks only, simply forget about timer button and just swipe right on each task to mark it as done and vice versa.
     fontawesome_icon_name                 : list-check
   
