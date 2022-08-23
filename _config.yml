@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Time Tracker
     description                           : track, pause, stop timer easily by mini timer view; if you prefer focus mode, tap on the mini view.
-    fontawesome_icon_name                 : bell
+    fontawesome_icon_name                 : alarm-clock
     
   - title                                 : Projects
     description                           : group tasks by setting a project to them, also adding deadline to a project helps you to handle it better & watch deadline countdown.
-    fontawesome_icon_name                 : bell
+    fontawesome_icon_name                 : folder
 
   - title                                 : Charts
     description                           : viewing your productivity by charts help you stay on track to achieve your goals.
