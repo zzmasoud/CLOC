@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Time Tracker
     description                           : track, pause, stop timer easily by mini timer view; if you prefer focus mode, tap on the mini view.
-    fontawesome_icon_name                 : alarm-clock
+    fontawesome_icon_name                 : clock
     
   - title                                 : Projects
     description                           : group tasks by setting a project to them, also adding deadline to a project helps you to handle it better & watch deadline countdown.
@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Charts
     description                           : viewing your productivity by charts help you stay on track to achieve your goals.
-    fontawesome_icon_name                 : chart-column
+    fontawesome_icon_name                 : chart-simple
 
   - title                                 : Notifications
     description                           : get smart notifications when you set a timer or when deadline of a project get closer.
@@ -53,11 +53,11 @@ features                                  :
 
   - title                                 : To Do Mode
     description                           : If you prefer to-do tasks only, simply forget about timer button and just swipe right on each task to mark it as done and vice versa.
-    fontawesome_icon_name                 : list-check
+    fontawesome_icon_name                 : check
   
   - title                                 : Overdue Tasks
     description                           : We designed a new user experience where you can assign overdue tasks to upcoming days, only by swapping (time capsules).
-    fontawesome_icon_name                 : hand-back-point-up
+    fontawesome_icon_name                 : clock-rotate-left
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
