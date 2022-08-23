@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Charts
     description                           : viewing your productivity by charts help you stay on track to achieve your goals.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : signal
 
   - title                                 : Notifications
     description                           : get smart notifications when you set a timer or when deadline of a project get closer.
@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : Overdue Tasks
     description                           : We designed a new user experience where you can assign overdue tasks to upcoming days, only by swapping (time capsules).
-    fontawesome_icon_name                 : clock-rotate-left
+    fontawesome_icon_name                 : repeat
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
