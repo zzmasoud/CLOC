@@ -11,7 +11,10 @@ Thai
 #### `In Progress`
 # **V 2.3**
 ### What's New
-- **iOS 16 Lock Screen Widget
+- **iOS 16 Lock Screen Widget**
+- **Automatic event detection**
+### Improvements
+- Fixed minor UI failure of the timer widget on iOS 16.
 
 ### `Latest`
 # **V 2.2**
