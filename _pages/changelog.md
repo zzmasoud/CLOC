@@ -8,6 +8,11 @@ include_in_header: true
 English, French, Hindi, Korean, Simplified Chinese,
 Thai
 
+#### `In Progress`
+# **V 2.3**
+### What's New
+- **iOS 16 Lock Screen Widget
+
 ### `Latest`
 # **V 2.2**
 ### What's New
